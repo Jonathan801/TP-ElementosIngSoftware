@@ -1,0 +1,14 @@
+.elementos {
+    display: grid;
+    grid-template-columns: 400px 400px 400px;
+    grid-gap: 30px;
+    margin: 10px;
+}
+
+strong {
+  font-family:Comic, cursive, sans-serif;
+  padding: 10px;
+}
+body {
+   background-color: #151515 !important;
+}

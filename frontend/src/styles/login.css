@@ -1,0 +1,39 @@
+
+.titul{
+  text-align: center;
+margin: 40px;
+font-size: 100px;
+color: cadetblue;
+}
+.formulario{
+  
+    display: inline-block;
+    position: relative;
+    top:40px;
+    left: 500px;
+    width: 300px;
+  }
+.login{
+  width: 300px;
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;
+  top:320px;
+}
+
+.btn{
+  margin-left: auto;
+margin-right: auto;
+display: block;
+
+}
+/*
+div .botonLogin{
+  
+
+    position: relative !important;
+    left: 100px;
+    width: 100px;*/
+     /*justify-content: unset;*/   
+
